@@ -1,0 +1,17 @@
+.App {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#home, #live {
+  height: 80vh;
+}
+#home {
+  background: gainsboro;
+  margin-top: 55px;
+  padding-top: 10px;
+}
+#footer {
+  background-color: #9C27B0;
+  /* opacity: 0.8; */
+}
